@@ -3,5 +3,5 @@
 debug = true
 
 [registry."docker.io"]
-  mirrors = ["mirror.ccs.tencentyun.com","registry-1.docker.io"]
+  mirrors = ["mirror.baidubce.com","registry-1.docker.io"]
   http = false
